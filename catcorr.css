@@ -14,10 +14,10 @@
 }
 
 .catcorr.all_background.all_bar.outcome, .catcorr.background.bar.outcome {
-  fill: rgb(107,174,214);
+  fill: rgb(255,160,89);
 }
 .catcorr.foreground.bar.outcome, .brush rect.extent.outcome {
-  fill: rgb(49,130,189);
+  fill: rgb(255,198,0);
 }
 
 .catcorr.all_background.all_bar.variable, .catcorr.background.bar.variable {
