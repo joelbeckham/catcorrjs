@@ -20,10 +20,10 @@
   fill: rgb(49,130,189);
 }
 
-.catcorr.all_background.all_bar.demographic, .catcorr.background.bar.demographic {
+.catcorr.all_background.all_bar.variable, .catcorr.background.bar.variable {
   fill: rgb(116,196,118);
 }
-.catcorr.foreground.bar.demographic, .catcorr.brush rect.extent.demographic {
+.catcorr.foreground.bar.variable, .catcorr.brush rect.extent.variable {
   fill: rgb(49, 163, 84);
 }
 
