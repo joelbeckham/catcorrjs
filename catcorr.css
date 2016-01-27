@@ -14,17 +14,17 @@
 }
 
 .catcorr.all_background.all_bar.outcome, .catcorr.background.bar.outcome {
-  fill: rgb(255,160,89);
+  fill: rgb(107,174,214);
 }
 .catcorr.foreground.bar.outcome, .brush rect.extent.outcome {
-  fill: rgb(255,198,0);
+  fill: rgb(49,130,189);
 }
 
 .catcorr.all_background.all_bar.variable, .catcorr.background.bar.variable {
-  fill: rgb(116,196,118);
+  fill: rgb(255,148,69);
 }
 .catcorr.foreground.bar.variable, .catcorr.brush rect.extent.variable {
-  fill: rgb(49, 163, 84);
+  fill: rgb(255,109,0);
 }
 
 .catcorr.asterisk {
